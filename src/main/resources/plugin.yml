@@ -1,0 +1,4 @@
+name: RandomItem
+version: '${project.version}'
+main: me.kqn.randomitem.RandomItem
+api-version: 1.19
